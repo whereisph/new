@@ -1,3 +1,3 @@
-<a href="whereisph.com">whereisph.com</a><br />
-<a href="phuborn.com">phuborn.com</a>
+<a href="https://whereisph.com">whereisph.com</a><br />
+<a href="https://phuborn.com">phuborn.com</a>
 
